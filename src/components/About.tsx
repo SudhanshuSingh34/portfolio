@@ -43,7 +43,7 @@ const About: React.FC = () => {
               <div className="grid grid-cols-2 gap-4">
                 <div>
                   <p className="font-medium">Name:</p>
-                  <p className="text-gray-700">Himanshu Mishra</p>
+                  <p className="text-gray-700">Sudhanshu Singh</p>
                 </div>
                 
                 <div>

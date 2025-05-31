@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
           className="max-w-3xl mx-auto"
         >
           <h1 className="text-4xl md:text-6xl font-bold mb-4">
-            Hi, I'm <span className="text-blue-300">Himanshu Mishra</span>
+            Hi, I'm <span className="text-blue-300"> Sudhanshu Singh</span>
           </h1>
           
           <h2 className="text-xl md:text-2xl mb-8">
