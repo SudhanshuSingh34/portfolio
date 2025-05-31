@@ -45,8 +45,8 @@ const Header: React.FC = () => {
           duration={500}
           className="text-xl font-bold cursor-pointer flex items-center"
         >
-          <span className="text-blue-600">H</span>
-          <span className={`${scrolled ? 'text-gray-900' : 'text-white'}`}>Sudhanshu Singh</span>
+          <span className="text-blue-600">S</span>
+          <span className={`${scrolled ? 'text-gray-900' : 'text-white'}`}>udhanshu Singh</span>
         </Link>
 
         {/* Desktop Navigation */}
